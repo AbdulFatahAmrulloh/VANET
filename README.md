@@ -1,4 +1,4 @@
-Berikut deskripsi repositori yang lebih spesifik sesuai dengan isi folder Anda:  
+
 
 ---  
 
@@ -21,7 +21,7 @@ Selamat datang di repositori ini! 🎉 Repositori ini berisi simulasi jaringan b
 ## 🚀 **Cara Menjalankan Simulasi**  
 1️⃣ Clone repositori ini ke lokal Anda:  
    ```bash
-   git clone https://github.com/VANET/repo-name.git
+   git clone https://github.com/AbdulFatahAmrulloh/repo-name.git
    ```  
 2️⃣ Buka **OMNeT++** dan import proyek ini  
 3️⃣ Jalankan simulasi menggunakan file **omnetpp.ini**  
@@ -39,4 +39,4 @@ Jika Anda ingin menambahkan fitur atau memperbaiki bug, silakan buat **Pull Requ
 
 ---  
 
-Silakan ganti bagian `https://github.com/VANET/repo-name.git` dengan URL repositori GitHub Anda. Semoga sukses dengan proyek simulasi ini! 🚀
+Silakan ganti bagian `https://github.com/AbdulFatahAmrulloh/repo-name.git` dengan URL repositori GitHub Anda. Semoga sukses dengan proyek simulasi ini! 🚀
